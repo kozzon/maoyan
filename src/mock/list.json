@@ -1,0 +1,58 @@
+[
+  {
+   "pic":"https://p0.meituan.net/movie/f2cb257de1849f71308c55e42a318401298312.jpg@1l_1e_1c_128w_180h",
+   "name":"风平浪静",
+   "score":"观众评8.5",
+   "star":"主演: 章宇,宋佳,王砚辉",
+   "number":"今天171家影院放映1819场",
+   "ticket":true
+  },
+  {
+    "pic":"https://p1.meituan.net/moviemachine/5cbf9a626b7ed27c96ca3c748655b3ec2550103.jpg@1l_1e_1c_128w_180h",
+    "name":"金刚川",
+    "score":"观众评9.4",
+    "star":"主演: 张译,吴京,李九霄",
+    "number":"今天170家影院放映2211场",
+    "ticket":true
+   },
+   {
+    "pic":"https://p1.meituan.net/movie/e99458a34ee7845d7bc90b71b5b86cbf3364271.jpg@1l_1e_1c_128w_180h",
+    "name":"地狱男爵：血皇后崛起",
+    "score":"544224人想看",
+    "star":"主演: 大卫·哈伯,米拉·乔沃维奇,伊恩·麦柯肖恩",
+    "number":"今天6家影院放映6场",
+    "ticket":false
+   },
+   {
+    "pic":"https://p0.meituan.net/movie/34ffd6e8f0119b362b5862521c296ecd5010552.jpg@1l_1e_1c_128w_180h",
+    "name":"数码宝贝：最后的进化",
+    "score":"观众评8.7",
+    "star":"主演: 花江夏树,细谷佳正,三森铃子",
+    "number":"今天163家影院放映855场",
+    "ticket":true
+   },
+   {
+    "pic":"https://p0.meituan.net/movie/9ce7a23430135c62fd03deb0df2110415169768.jpg@1l_1e_1c_128w_180h",
+    "name":"未来的未来",
+    "score":"观众评8.9",
+    "star":"主演: 上白石萌歌,黑木华,星野源",
+    "number":"今天155家影院放映532场",
+    "ticket":true
+   },
+   {
+    "pic":"https://p0.meituan.net/movie/73ea2074775b537a3120c0530e966ccd157151.jpg@1l_1e_1c_128w_180h",
+    "name":"除暴",
+    "score":"42415人想看",
+    "star":"主演: 王千源,吴彦祖,春夏",
+    "number":"2020-11-20上映",
+    "ticket":false
+   },
+   {
+    "pic":"https://p0.meituan.net/movie/202ea88abd2abf2aa1964487d61edab64556414.jpg@1l_1e_1c_128w_180h",
+    "name":"我和我的家乡",
+    "score":"观众评9.2",
+    "star":"主演: 葛优,黄渤,范伟",
+    "number":"今天160家影院放映655场",
+    "ticket":true
+   }
+]

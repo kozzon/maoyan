@@ -1,29 +1,82 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+  <!-- <div :class="{wrapper:wrapperflag}" > -->
+  <div class="app">
+    <Tab v-if="tabFlag"></Tab>
+    <keep-alive>
+      <router-view></router-view>
+    </keep-alive>
+    <TabBar v-if="tabBarFlag"></TabBar>
   </div>
+  <!-- </div> -->
 </template>
-
-<script lang="ts">
-import { Component, Vue } from 'vue-property-decorator';
-import HelloWorld from './components/HelloWorld.vue';
-
-@Component({
-  components: {
-    HelloWorld,
+<script>
+import Tab from "Comp/Tab";
+import TabBar from "Comp/TabBar";
+import Home from "Pages/home";
+export default {
+  data() {
+    return {
+      tabFlag: true,
+      tabBarFlag: true,
+      // wrapperflag: false
+    };
   },
-})
-export default class App extends Vue {}
+  watch: {
+    $route() {
+      this.checkTabTabBar();
+    },
+  },
+  methods: {
+    checkTabTabBar() {
+      // 有的路由要关闭，有的路由要开启
+      let { path } = this.$route;
+      if (path.indexOf("/movie") !== -1) {
+        path = "/movie";
+      }
+      switch (path) {
+        case "/city":
+          this.tabFlag = false;
+          this.tabBarFlag = false;
+          break;
+        case "/search":
+          this.tabBarFlag = false;
+          // this.tabFlag = false
+          break;
+        case "/movie":
+          this.tabBarFlag = false;
+          // this.wrapperflag= true
+          break;
+        default:
+          this.tabBarFlag = true;
+          this.tabFlag = true;
+          break;
+      }
+    },
+  },
+  components: {
+    Tab,
+    Home,
+    TabBar,
+  },
+};
 </script>
-
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@import "./assets/style/reset.scss";
+// .wrapper{
+//   width: 100%;
+//   height: 100%;
+//   overflow: hidden;
+// }
+.app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+#container {
+  flex: 1;
+  // height: 100%;
+  display: flex;
+  flex-direction: column;
+  // overflow: hidden;
 }
 </style>

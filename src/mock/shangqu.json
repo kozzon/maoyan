@@ -1,0 +1,491 @@
+[
+  {
+    "text": "全部(171)",
+    "children": null
+  },
+  {
+    "text": "江干区(30)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 30,
+        "id": 1
+      },
+      {
+        "text": "下沙",
+        "number": 10,
+        "id": 2
+      },
+      {
+        "text": "城东",
+        "number": 7,
+        "id": 3
+      },
+      {
+        "text": "钱江新城/四季青",
+        "number": 3,
+        "id": 4
+      },
+      {
+        "text": "九堡新天地文化创意园",
+        "number": 3,
+        "id": 5
+      },
+      {
+        "text": "和达东东城",
+        "number": 3,
+        "id": 6
+      },
+      {
+        "text": "天城路沿线",
+        "number": 1,
+        "id": 7
+      },
+      {
+        "text": "丁桥",
+        "number": 1,
+        "id": 8
+      },
+      {
+        "text": "新塘路/秋涛路沿线",
+        "number": 1,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "text": "余杭区(28)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 28,
+        "id": 1
+      },
+      {
+        "text": "临平",
+        "number": 4,
+        "id": 2
+      },
+      {
+        "text": "老余杭",
+        "number": 3,
+        "id": 3
+      },
+      {
+        "text": "海创园",
+        "number": 3,
+        "id": 4
+      },
+      {
+        "text": "乔司",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "余之城购物中心",
+        "number": 1,
+        "id": 6
+      },
+      {
+        "text": "天城路沿线",
+        "number": 1,
+        "id": 7
+      },
+      {
+        "text": "上亿广场",
+        "number": 1,
+        "id": 8
+      },
+      {
+        "text": "临平万宝城购物中心",
+        "number": 1,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "text": "萧山区(20)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 20,
+        "id": 1
+      },
+      {
+        "text": "瓜沥镇",
+        "number": 3,
+        "id": 2
+      },
+      {
+        "text": "北干",
+        "number": 2,
+        "id": 3
+      },
+      {
+        "text": "新农部",
+        "number": 2,
+        "id": 4
+      },
+      {
+        "text": "临浦",
+        "number": 2,
+        "id": 5
+      },
+      {
+        "text": "宝龙城市广场",
+        "number": 1,
+        "id": 6
+      },
+      {
+        "text": "闻堰",
+        "number": 1,
+        "id": 7
+      },
+      {
+        "text": "大江东",
+        "number": 1,
+        "id": 8
+      },
+      {
+        "text": "钱江世纪城",
+        "number": 1,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "text": "西湖区(19)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 19,
+        "id": 1
+      },
+      {
+        "text": "高新文教区",
+        "number": 10,
+        "id": 2
+      },
+      {
+        "text": "古墩路沿线",
+        "number": 5,
+        "id": 3
+      },
+      {
+        "text": "转塘",
+        "number": 2,
+        "id": 4
+      },
+      {
+        "text": "西溪",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "西城广场",
+        "number": 1,
+        "id": 6
+      },
+      {
+        "text": "西溪银泰城",
+        "number": 1,
+        "id": 7
+      }
+    ]
+  },
+  {
+    "text": "下城区(13)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 13,
+        "id": 1
+      },
+      {
+        "text": "武林广场",
+        "number": 3,
+        "id": 2
+      },
+      {
+        "text": "凤起路沿线",
+        "number": 3,
+        "id": 3
+      },
+      {
+        "text": "中大银泰城",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "北景园",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "朝晖地区",
+        "number": 1,
+        "id": 6
+      },
+      {
+        "text": "新天地",
+        "number": 1,
+        "id": 7
+      },
+      {
+        "text": "和平广场",
+        "number": 1,
+        "id": 8
+      },
+      {
+        "text": "西联广场",
+        "number": 1,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "text": "滨江区(11)",
+    "children": [
+      {
+        "text": "开发区/高教园",
+        "number": 10,
+        "id": 1
+      },
+      {
+        "text": "星光大道",
+        "number": 1,
+        "id": 2
+      }
+    ]
+  },
+  {
+    "text": "拱墅区(9)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 9,
+        "id": 1
+      },
+      {
+        "text": "北大桥/大悦城",
+        "number": 2,
+        "id": 2
+      },
+      {
+        "text": "大关",
+        "number": 1,
+        "id": 3
+      },
+      {
+        "text": "万达广场",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "运河上街",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "水晶城",
+        "number": 1,
+        "id": 6
+      },
+      {
+        "text": "城西银泰城",
+        "number": 1,
+        "id": 7
+      },
+      {
+        "text": "D32天阳购物中心",
+        "number": 1,
+        "id": 8
+      },
+      {
+        "text": "拱宸桥/上塘",
+        "number": 1,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "text": "富阳区(9)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 9,
+        "id": 1
+      },
+      {
+        "text": "新登镇",
+        "number": 2,
+        "id": 2
+      },
+      {
+        "text": "横凉亭路",
+        "number": 1,
+        "id": 3
+      },
+      {
+        "text": "宝龙城市广场",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "春秋北路沿线",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "龙山路/青少年宫",
+        "number": 1,
+        "id": 6
+      },
+      {
+        "text": "东南商贸中心",
+        "number": 1,
+        "id": 7
+      }
+    ]
+  },
+  {
+    "text": "临安市(7)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 7,
+        "id": 1
+      },
+      {
+        "text": "钱王街",
+        "number": 2,
+        "id": 2
+      },
+      {
+        "text": "於潜镇",
+        "number": 1,
+        "id": 3
+      },
+      {
+        "text": "城中街",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "平山/农林大学",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "锦北街道",
+        "number": 1,
+        "id": 6
+      }
+    ]
+  },
+  {
+    "text": "上城区(6)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 7,
+        "id": 1
+      },
+      {
+        "text": "钱王街",
+        "number": 2,
+        "id": 2
+      },
+      {
+        "text": "於潜镇",
+        "number": 1,
+        "id": 3
+      },
+      {
+        "text": "城中街",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "平山/农林大学",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "锦北街道",
+        "number": 1,
+        "id": 6
+      }
+    ]
+  },
+  {
+    "text": "桐庐县(6)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 7,
+        "id": 1
+      },
+      {
+        "text": "钱王街",
+        "number": 2,
+        "id": 2
+      },
+      {
+        "text": "於潜镇",
+        "number": 1,
+        "id": 3
+      },
+      {
+        "text": "城中街",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "平山/农林大学",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "锦北街道",
+        "number": 1,
+        "id": 6
+      }
+    ]
+  },
+  {
+    "text": "临安市(9)",
+    "children": [
+      {
+        "text": "全部",
+        "number": 7,
+        "id": 1
+      },
+      {
+        "text": "钱王街",
+        "number": 2,
+        "id": 2
+      },
+      {
+        "text": "於潜镇",
+        "number": 1,
+        "id": 3
+      },
+      {
+        "text": "城中街",
+        "number": 1,
+        "id": 4
+      },
+      {
+        "text": "平山/农林大学",
+        "number": 1,
+        "id": 5
+      },
+      {
+        "text": "锦北街道",
+        "number": 1,
+        "id": 6
+      }
+    ]
+  }
+]
